@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "pie-chart",
+    "slug": "pie-chart",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "io.expo.piechart"
+    }
+  },
+  "name": "pie-chart"
+}
